@@ -25,3 +25,16 @@ C:\Users\fengye\Desktop\Code_Fxp\FXPCaller\obj\Debug\FXPCaller.csproj.CoreCompil
 C:\Users\fengye\Desktop\Code_Fxp\FXPCaller\obj\Debug\FXPCaller.csproj.CopyComplete
 C:\Users\fengye\Desktop\Code_Fxp\FXPCaller\obj\Debug\FXPCaller.exe
 C:\Users\fengye\Desktop\Code_Fxp\FXPCaller\obj\Debug\FXPCaller.pdb
+D:\ProgramCode\Test\Test\FXPCaller\bin\Debug\FXPCaller.exe.config
+D:\ProgramCode\Test\Test\FXPCaller\bin\Debug\FXPCaller.exe
+D:\ProgramCode\Test\Test\FXPCaller\bin\Debug\FXPCaller.pdb
+D:\ProgramCode\Test\Test\FXPCaller\bin\Debug\AxInterop.FXControl.dll
+D:\ProgramCode\Test\Test\FXPCaller\obj\Debug\Interop.Workspace.dll
+D:\ProgramCode\Test\Test\FXPCaller\obj\Debug\FXPCaller.csproj.ResolveComReference.cache
+D:\ProgramCode\Test\Test\FXPCaller\obj\Debug\FXPCaller.FXpCaller.resources
+D:\ProgramCode\Test\Test\FXPCaller\obj\Debug\FXPCaller.Properties.Resources.resources
+D:\ProgramCode\Test\Test\FXPCaller\obj\Debug\FXPCaller.csproj.GenerateResource.cache
+D:\ProgramCode\Test\Test\FXPCaller\obj\Debug\FXPCaller.csproj.CoreCompileInputs.cache
+D:\ProgramCode\Test\Test\FXPCaller\obj\Debug\FXPCaller.csproj.CopyComplete
+D:\ProgramCode\Test\Test\FXPCaller\obj\Debug\FXPCaller.exe
+D:\ProgramCode\Test\Test\FXPCaller\obj\Debug\FXPCaller.pdb
