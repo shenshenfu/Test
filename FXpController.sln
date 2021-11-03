@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FXPCaller", "FXPCaller\FXPCaller.csproj", "{8FAF2B1B-5722-4A47-9BC1-3B3E5711038D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FAF2B1B-5722-4A47-9BC1-3B3E5711038D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAF2B1B-5722-4A47-9BC1-3B3E5711038D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAF2B1B-5722-4A47-9BC1-3B3E5711038D}.Debug|x86.ActiveCfg = Debug|x86
+		{8FAF2B1B-5722-4A47-9BC1-3B3E5711038D}.Debug|x86.Build.0 = Debug|x86
+		{8FAF2B1B-5722-4A47-9BC1-3B3E5711038D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAF2B1B-5722-4A47-9BC1-3B3E5711038D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FAF2B1B-5722-4A47-9BC1-3B3E5711038D}.Release|x86.ActiveCfg = Release|x86
+		{8FAF2B1B-5722-4A47-9BC1-3B3E5711038D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5295B8F0-B529-418A-AB76-B702027915B4}
+	EndGlobalSection
+EndGlobal
